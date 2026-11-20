@@ -12,6 +12,7 @@ This repository collects hands-on projects I completed for the **Google Cybersec
 |---|---------|------------|----------------|
 | 01 | [DNS & ICMP Traffic Analysis](01_Network-Traffic-Analysis/) | Analyzed a tcpdump capture to find out why users couldn't reach a website, and traced the failure to the DNS service on UDP port 53 | tcpdump, packet analysis, DNS, UDP, ICMP, incident reporting |
 | 02 | [Botium Toys Security Audit](02_Security-Audit/) | Assessed a small company's administrative, technical, and physical controls and checked compliance with PCI DSS, GDPR, and SOC | Security controls, risk assessment, PCI DSS, GDPR, SOC |
+| 03 | [Apply Filters to SQL Queries](03_SQL-Filters/) | Used SQL filters to investigate suspicious login attempts and find employee machines that needed security updates | SQL, WHERE, AND / OR / NOT, LIKE, date & time filtering |
 
 *More projects coming soon.*
 
@@ -19,6 +20,7 @@ This repository collects hands-on projects I completed for the **Google Cybersec
 
 ## 🛠️ Skills Demonstrated
 
+- **SQL:** filtering with AND / OR / NOT, pattern matching with LIKE, date and time queries
 - **Network analysis:** tcpdump, reading packet captures, DNS / UDP / ICMP troubleshooting
 - **Security auditing:** controls assessment, risk scoring, prioritizing remediation
 - **Compliance frameworks:** PCI DSS, GDPR, SOC
