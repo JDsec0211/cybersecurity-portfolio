@@ -1,5 +1,10 @@
 # Botium Toys – Internal Security Audit Checklist
 
+**Frameworks:** PCI DSS, GDPR, SOC  **Source:** Google Cybersecurity Professional Certificate
+
+## 📋 Scenario
+Botium Toys is a small U.S. toy company with a physical store, a warehouse, and a growing online store that serves customers worldwide, including in the EU. As the business grew, its IT department asked for an internal audit to understand its security risks and compliance gaps before they turned into real problems.
+
 ## Audit Objective
 Evaluate Botium Toys’ current security controls and compliance posture to identify risks and improvement areas.
 
@@ -84,3 +89,11 @@ Evaluate Botium Toys’ current security controls and compliance posture to iden
 4. Establish tested backups and disaster recovery procedures.
 5. Strengthen password policy and implement centralized password management.
 6. Improve asset inventory and classification.
+
+---
+
+## 🛠️ Skills Demonstrated
+- Assessing administrative, technical, and physical security controls
+- Mapping controls to compliance requirements (PCI DSS, GDPR, SOC)
+- Risk scoring and prioritizing remediation
+- Writing clear audit findings and recommendations
