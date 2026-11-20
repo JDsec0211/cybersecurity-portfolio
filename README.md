@@ -28,5 +28,4 @@ This repository collects hands-on projects I completed for the **Google Cybersec
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** *(add your LinkedIn URL here)*
-- **Certificate:** *(add your Google Cybersecurity Certificate verification link here)*
+- **LinkedIn:** [linkedin.com/in/jesus-davila-348689449](https://www.linkedin.com/in/jesus-davila-348689449/)
