@@ -26,6 +26,17 @@ This repository collects hands-on projects I completed for the **Google Cybersec
 
 ---
 
+## 🎓 Google Cybersecurity Professional Certificate *(in progress, 4 of 8 courses complete)*
+
+| Course | Certificate |
+|--------|-------------|
+| 1. Foundations of Cybersecurity | [View](https://coursera.org/share/18f7afaf1b776ace7eb0028151742011) |
+| 2. Play It Safe: Manage Security Risks | [View](https://coursera.org/share/372ec8bbf1e570b7822bed654732e6f9) |
+| 3. Connect and Protect: Networks and Network Security | [View](https://coursera.org/share/098eac395740f27bc9304abf1ddecace) |
+| 4. Tools of the Trade: Linux and SQL | [View](https://coursera.org/share/48e60f84106ce142dc0ac3c13ecfb089) |
+
+---
+
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/jesus-davila-348689449](https://www.linkedin.com/in/jesus-davila-348689449/)
